@@ -1,0 +1,7 @@
+{
+  "extends": "topaxi",
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  }
+}
