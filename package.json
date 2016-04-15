@@ -49,7 +49,7 @@
   "bundledDependencies": [
     "debug",
     "irc-colors",
-    "rxjs-es",
+    "rxjs",
     "babel-runtime"
   ]
 }
