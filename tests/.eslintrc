@@ -3,6 +3,10 @@
     "mocha": true
   },
   "globals": {
-    "Mitm": true
+    "Mitm": true,
+    "expect": true
+  },
+  "rules": {
+    "max-len": 0
   }
 }
