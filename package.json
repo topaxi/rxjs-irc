@@ -41,7 +41,7 @@
     "babel-register": "^6.7.2",
     "chai": "^3.5.0",
     "eslint": "^2.7.0",
-    "eslint-config-topaxi": "^1.0.0",
+    "eslint-config-topaxi": "^1.0.1",
     "glob": "^7.0.3",
     "mitm": "^1.2.1",
     "mocha": "^2.4.5"
