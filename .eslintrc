@@ -1,5 +1,5 @@
 {
-  "extends": "topaxi",
+  "extends": "./node_modules/eslint-config-topaxi/eslint.json",
   "parser": "babel-eslint",
   "env": {
     "node": true
